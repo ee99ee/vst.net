@@ -68,7 +68,7 @@
         /// <returns>Returns the number of samples.</returns>
         int GetBlockSize();
         /// <summary>
-        /// Retrieves the latency concerning audio input.
+        /// Retrieves the audio input data block size.
         /// </summary>
         /// <returns>Returns the latency in number of samples?</returns>
         int GetInputLatency();
